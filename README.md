@@ -1,3 +1,3 @@
 # ``PyCirct``
 
-![](docs/images/overview.svg)
+<img src="docs/images/overview.svg" width="100%">
