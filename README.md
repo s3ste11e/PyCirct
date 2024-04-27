@@ -1,3 +1,3 @@
 # ``PyCirct``
 
-[](docs/images/overview.svg)
+![](docs/images/overview.svg)
